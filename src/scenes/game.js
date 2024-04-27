@@ -5,7 +5,9 @@ class Game extends Phaser.Scene {
     super("game");
   }
 
-  create() {}
+  create() {
+    this.add.image(0, 0, "imgBG").setOrigin(0);
+  }
 
   update() {}
 }

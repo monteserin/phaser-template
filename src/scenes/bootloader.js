@@ -6,7 +6,7 @@ class Bootloader extends Phaser.Scene {
   }
 
   preload() {
-    // this.load.image("background", bg);
+    // this.load.image("imgBG", '/assets/imgBG.png');
     // this.load.spritesheet("player", player, {
     //   frameWidth: 64,
     //   frameHeight: 64,
