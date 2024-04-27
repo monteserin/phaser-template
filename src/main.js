@@ -3,8 +3,8 @@ import Bootloader from "./scenes/bootloader";
 import Game from "./scenes/game";
 
 const config = {
-  width: 1000,
-  height: 800,
+  width: 960,
+  height: 640,
   scale: {
     mode: Phaser.Scale.FIT,
     autoCenter: Phaser.Scale.CENTER_BOTH,
